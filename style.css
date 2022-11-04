@@ -1,0 +1,25 @@
+/* 
+Theme Name: Twenty twenty two enfant
+Template: twentytwentytwo
+*/
+@font-face {
+    font-family: 'Roboto';
+    src: url("C:\wamp64\www\chaletsetcaviar\wp-content\themes\twentytwentytwo-enfant\fonts\Roboto-Black.ttf") format('truetype');
+    src: url("C:\wamp64\www\chaletsetcaviar\wp-content\themes\twentytwentytwo-enfant\fonts\Roboto-Black.woff") format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url("C:\wamp64\www\chaletsetcaviar\wp-content\themes\twentytwentytwo-enfant\fonts\OpenSans-VariableFont_wdth,wght.ttf") format('truetype');
+    src: url("C:\wamp64\www\chaletsetcaviar\wp-content\themes\twentytwentytwo-enfant\fonts\OpenSans-VariableFont_wdth_wght.woff") format('woff');
+}
+
+h1
+{
+    font-family: 'Roboto';
+}
+
+body
+{
+    font-family: 'Open Sans';
+}
